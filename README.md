@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jonathan-eng-jur)](https://github.com/Jonathan-eng-jur)
 ## Hello 👋, 
 
-:small_orange_diamond: Me dê um minuto eu sou bom. Me dê uma hora e sou ótimo. Me dê seis meses e sou invencível. :point_down:
+:small_orange_diamond: Me dê um minuto eu sou bom. Me dê uma hora e sou ótimo. Me dê seis meses e sou invencível.
 
 ```json
 informations: Object = {
