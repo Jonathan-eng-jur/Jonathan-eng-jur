@@ -1,16 +1,53 @@
-### Hi there 👋
+# Jonathan de Paula
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-dev-fullstack/)](https://www.linkedin.com/in/jonathan-dev-fullstack/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jonathan-eng-jur)](https://github.com/Jonathan-eng-jur)
+## Hello 👋, 
 
-<!--
-**Jonathan-eng-jur/Jonathan-eng-jur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:small_orange_diamond: Me dê um minuto eu sou bom. Me dê uma hora e sou ótimo. Me dê seis meses e sou invencível. :point_down:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+informations: Object = {
+    "personal" : {
+        "location" : {
+            "country" : "Brazil",
+            "state" : "São Paulo",
+            "city" : "São Paulo"
+        },
+        "since" : 1993,
+        "pleasures" : [            
+            "family",
+            "friends",
+            "soccer",
+            "eat",
+            "sleep"
+        ] 
+    },
+    "study" : {
+        "college" : "FIAP",
+        "periodontitis" : "1/4",
+        "location" : {
+            "country" : "Brazil",
+            "state" : "São Paulo",
+            "city" : "São Paulo"
+        },
+        "interests" : [
+            "Angular JS/+2",
+            "Type Script",
+            "Java Script",
+            "JSON",
+            "HTML 5",
+            "CSS 3",
+            "Bootstrap 4",
+            "Java",
+            "Spring Boot",
+            "MySQL",
+            "Docker",
+            "Git / Github",
+            "Swagger",
+            "Postman",
+            "MVC",
+            "AWS"
+        ]
+    }
+}
+```
