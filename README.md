@@ -23,8 +23,8 @@ informations: Object = {
         ] 
     },
     "study" : {
-        "college" : "FIAP",
-        "periodontitis" : "1/4",
+        "college" : "FIT - Faculdade Impacta de Tecnologia",
+        "periodontitis" : "1/5",
         "location" : {
             "country" : "Brazil",
             "state" : "São Paulo",
