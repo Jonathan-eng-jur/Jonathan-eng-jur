@@ -17,27 +17,23 @@ informations: Object = {
         "pleasures" : [            
             "family",
             "friends",
+            "run",
             "soccer",
             "eat",
             "sleep"
         ] 
     },
     "study" : {
-        "college" : "FIT - Faculdade Impacta de Tecnologia",
-        "periodontitis" : "1/5",
+        "college" : "Generation Brasil && ETEC Aprogio Gonzaga",
+        "description" : "Desenvolvimento de Sistemas",
         "location" : {
             "country" : "Brazil",
             "state" : "São Paulo",
             "city" : "São Paulo"
         },
         "interests" : [
-            "Angular JS/+2",
-            "Type Script",
-            "Java Script",
-            "JSON",
-            "HTML 5",
-            "CSS 3",
-            "Bootstrap 4",
+            "Golang",
+            "Kotlin",
             "Java",
             "Spring Boot",
             "MySQL",
