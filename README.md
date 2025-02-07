@@ -19,13 +19,12 @@ informations: Object = {
             "friends",
             "run",
             "soccer",
-            "eat",
-            "sleep"
+            "swimming"
         ] 
     },
     "study" : {
-        "college" : "Generation Brasil && ETEC Aprogio Gonzaga",
-        "description" : "Desenvolvimento de Sistemas",
+        "college" : "Anhanguera && Generation Brasil && ETEC",
+        "description" : "Análise e Desenvolvimento de Sistemas",
         "location" : {
             "country" : "Brazil",
             "state" : "São Paulo",
